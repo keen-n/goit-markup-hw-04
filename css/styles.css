@@ -324,7 +324,6 @@ img {
   justify-content: center;
   padding-left: 16px;
   padding-right: 16px;
-  padding-bottom: 32px;
 }
 
 .team-soc-item {
@@ -351,7 +350,6 @@ img {
 }
 
 .team-content {
-  padding-top: 32px;
   padding-bottom: 8px;
   text-align: center;
 }
